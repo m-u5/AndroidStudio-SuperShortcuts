@@ -1,8 +1,8 @@
-# Android Studio Super Short cut
+# Android Studio Super Shortcuts
 
 Throw away your mouse and use the shortcut every day.
 
-## Useful symbols:
+## Useful symbols
 
 ⌘ = Command Key  
 ⌥ = Option Key  
